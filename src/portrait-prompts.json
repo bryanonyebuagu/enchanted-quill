@@ -1,0 +1,14 @@
+[
+  {
+    "key": "elara",
+    "prompt": "Use case: photorealistic-natural. Asset type: fictional character portrait for a premium film story development application. Generate a cinematic, extremely realistic head-and-shoulders portrait of Elara Voss, a 24-year-old woman with light olive skin, natural freckles, dark brown eyes, short wavy dark brown bob haircut, wearing a charcoal wool coat over a cream collar. Serious thoughtful gaze slightly past camera, subtle light from a window at dusk, deep blurred forest green background. Natural skin texture, film grain, restrained color grade, 85mm lens, vertical portrait composition with subject centered, head fully in frame. No text, no border, no logo, no watermark. Original fictional person, no celebrity likeness."
+  },
+  {
+    "key": "rowan",
+    "prompt": "Use case: photorealistic-natural. Asset type: fictional character portrait for a premium film story development application. Generate a cinematic, extremely realistic head-and-shoulders portrait of Rowan Ashford, a 28-year-old man with warm brown skin, dark expressive eyes, short curly black hair, light stubble, wearing a dark forest green corduroy jacket over a black shirt. Quiet confidence, gaze towards camera, cool dawn window light with warm edge light, deep blurred charcoal background. Natural skin texture, film grain, restrained color grade, 85mm lens, vertical portrait composition with subject centered, head fully in frame. No text, no border, no logo, no watermark. Original fictional person, no celebrity likeness."
+  },
+  {
+    "key": "maeve",
+    "prompt": "Use case: photorealistic-natural. Asset type: fictional character portrait for a premium film story development application. Generate a cinematic, extremely realistic head-and-shoulders portrait of Professor Maeve Thorne, a 58-year-old woman with pale skin, shoulder length silver gray hair parted at the side, intelligent gray eyes, subtle age lines, wearing a high collar midnight blue tailored wool jacket. Calm unreadable expression, soft side light and amber rim light, deep blurred library background. Natural skin texture, film grain, restrained color grade, 85mm lens, vertical portrait composition with subject centered, head fully in frame. No text, no border, no logo, no watermark. Original fictional person, no celebrity likeness."
+  }
+]
