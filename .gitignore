@@ -1,3 +1,7 @@
 node_modules/
 dist/
 *.tar.gz
+.env*
+!.env.example
+.dev.vars*
+.wrangler/

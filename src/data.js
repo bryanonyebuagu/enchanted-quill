@@ -25,4 +25,4 @@ const briefPrompts=[{id:1,title:'Find the emotional turn',category:'Scene develo
 export const characters=libraryCharacters.map(c=>({...c,prompt:baseCharacters.find(b=>b.id===c.id)?.prompt||c.prompt}));
 export const locations=libraryLocations;
 export const prompts=detailedPrompts;
-export function sceneImage(scene){return scene.image|| /wood|wings|forest/i.test(scene.location+' '+scene.title)?'/images/forest.jpg':/spell|library/i.test(scene.location+' '+scene.title)?'/images/library.jpg':'/images/castle.jpg';}
+export function sceneImage(scene){return scene.approvedImageUrl || null;}

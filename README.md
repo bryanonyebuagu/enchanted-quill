@@ -1,46 +1,38 @@
 # Enchanted Quill
 
-A cinematic story development workspace built with Svelte 5, Vite, and Lucide icons. Motion uses Svelte transitions and CSS; no additional UI or animation framework is required.
+A Svelte 5 story intelligence workspace with a node-based storytelling canvas, scene direction, and a Higgsfield-ready generation architecture. The design uses Inter, Space Grotesk, white/black surfaces and lemon (#DFFF00).
 
-## Run locally
+## Development
 
-```sh
-npm install
-npm run dev
-```
+- `npm install --legacy-peer-deps`
+- Initialize a fresh local database once: `node node_modules/wrangler/bin/wrangler.js d1 execute DB --local --config wrangler.jsonc --file drizzle/0000_generation.sql`
+- `npm run dev`
+- `npm run build`
+- `node --test server/api.test.js src/visual-model.test.js src/canvas-model.test.js`
 
-## Production build
+Vite produces `dist/client` and `dist/server/index.js`. The Sites hosting manifest provisions D1 and R2. Hosted identity is supplied by Sites; preview identity is confined to development builds.
 
-```sh
-npm run build
-```
+## Workspace
 
-The generated `dist` directory is a static site.
+- Six complete branching story editions, 60 authored scenes, 24 character dossiers, 19 locations and 12 detailed prompt templates, alongside the original starter project.
+- Svelte Flow canvas with character, location, scene, prompt, image and video node types; pan, zoom, arrangement, fit view, undo/redo and functional connections.
+- Reusable entity profiles, multiple characters and locations per scene, reference-version bindings, branching reader choices, scene navigator and responsive properties panels.
+- Manual story creation and a clearly labeled local draft-breakdown parser. No language-model story analyzer is connected.
+- Scene Director creates three editable structured prompts from the actual story moment, saved profiles, reference IDs, camera choices and continuity. Prompt composition is local, not a claim of AI inference.
+- Finalized scenes require 100 words; incomplete drafts remain editable and autosaved.
+- Scene image versions, approval pointers, source-image selection for video, downloadable outputs, and uploaded-video playback.
+- Local autosave preserves existing drafts and canvas state. Cloud snapshots preserve linked records; cloud autosave follows an initial snapshot. Stale revisions cannot overwrite newer cloud data. Reopening a cloud project preserves a restorable local backup.
 
-## Experience
+## Generation status
 
-- Dashboard, story workspace, storyboard, writing view, timeline, and branching reader.
-- Collapsible navigation, command palette, docked resizable inspector, accessible dialogs, mobile navigation, and reduced-motion support.
-- Scene editing, choices, local project creation, scene reordering, search and filters, JSON import/export, and activity history.
-- Character portraits and four-angle full-body turnaround reference sheets with downloadable originals and the exact prompts used.
-- Location previews, sample relationships, themes, pinned context notes, and a prompt library.
-- Narrative health measures scene reachability and structural completeness, not AI-generated creative quality.
+**No paid generation or payments are active.** Mock jobs, persistent history, preview credits, cancellation, failure/recovery controls, subscriptions UI and administrator provider status are implemented. All mock images and motion placeholders are labeled as demonstrations, not AI output. Mock motion previews are not rendered videos.
 
-## Data and scope
+Live Higgsfield has not been tested against a funded account. API credentials remain server-side. Activation requires account/model verification, verified billing rules and output hosts, and explicit environment gates. See [GENERATION.md](GENERATION.md) for official documentation, configuration and activation steps.
 
-This is a UI/UX design implementation with working browser-local interactions. It does not connect to a live AI service. AI memory, character biographies, relationships, and themes use labeled sample context. Story counts and structural checks use actual local scene data.
+## Asset consistency
 
-Data is saved to `quill-studio-v1` in localStorage. The first launch imports the earlier `enchanted-quill` story when present, without removing the original key. Export stories to keep a portable backup. Browser-local data is not shared across devices or origins.
-
-## Images
-
-Character portraits and turnaround sheets were generated with the built-in image generation tool. Exact prompts are recorded in `src/portrait-prompts.json` and `src/turnaround-prompts.json` and are visible in the app.
-
-The castle background is retained from the original application. Castle, forest, and library photographs are served locally from `public/images`.
+Character identity, location environment and narrative scene assets are distinct types. Generic setting photos are no longer presented as scene renders, and unrelated locations no longer share fallback imagery. Uncreated references are explicitly marked pending. Existing original portraits and turnarounds are retained; new full identity sheets can be generated later or imported and approved now. Generated and imported scene versions remain linked to their story and scene IDs.
 
 ## Stack
 
-- Svelte 5 reactive state and built-in transitions
-- Vite static production build
-- Lucide Svelte icons
-- CSS Grid, responsive panels, native drag and drop, SVG charts and relationships
+Svelte 5, Svelte Flow (@xyflow/svelte), Vite, Lucide, Cloudflare Workers/D1/R2, and the retained Sites build integration. No React runtime or separate animation framework is required.
