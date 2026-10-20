@@ -91,3 +91,7 @@ Approved drafts open as linked character, location, theme and scene nodes, with 
 
 The bundled library contains seven distinct project covers, nineteen unique location references and twenty-one new multi-view character reference sheets, alongside the three retained original character references. Generated artwork has stable asset IDs, saved prompts and distinct content hashes. Existing imported or approved user assets take precedence. Each story has its own cast, settings, scenes and authored thematic guide. Dark mode uses neutral pitch-black surfaces with lemon accents; light mode and the castle background remain available.
 
+
+## Tutorials
+
+Seven searchable lessons cover navigation, stories and PDF intake, asset imports, canvas connections, scenes, generation previews, and saving. Progress saves in the browser, and lesson actions open the relevant workspace area.
