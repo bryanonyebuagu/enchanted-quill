@@ -12,7 +12,7 @@ A cinematic castle backdrop, spacious typography, white and black surfaces, and 
 - `npm run build`
 - `node --test server/api.test.js src/visual-model.test.js src/canvas-model.test.js`
 
-Vite produces `dist/client` and `dist/server/index.js`. The Sites hosting manifest provisions D1 and R2. Hosted identity is supplied by Sites; preview identity is confined to development builds.
+Vite produces `dist/client` and `dist/server/index.js`. The application uses Cloudflare D1 and R2 for durable records and asset storage. Hosted identity is supplied by the deployment platform; preview identity is confined to development builds.
 
 ## Workspace
 
@@ -38,12 +38,11 @@ Character identity, location environment and narrative scene assets are distinct
 
 ## Stack
 
-Svelte 5, Svelte Flow (@xyflow/svelte), Vite, Lucide, Cloudflare Workers/D1/R2, and the retained Sites build integration. No React runtime or separate animation framework is required.
+Svelte 5, Svelte Flow (@xyflow/svelte), Vite, Lucide, Cloudflare Workers/D1/R2,. No React runtime or separate animation framework is required.
 
 ## Project structure
 
 ```text
-.openai/              Hosting manifest
 build/                Hosting build integration
 drizzle/              Database schema and migration metadata
 public/images/        Backgrounds, portraits, and reference sheets
