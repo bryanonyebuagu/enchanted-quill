@@ -1,0 +1,690 @@
+[
+  {
+    "id": "cover-midnight",
+    "type": "cover",
+    "storyId": "library-midnight",
+    "url": "/images/generated/cover-midnight.jpg",
+    "hash": "55395e22db675b05eb1b6e1b06a0d2a169fcb35144fd7ae7068e4ca60e64289b",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "cover-sea",
+    "type": "cover",
+    "storyId": "library-sea",
+    "url": "/images/generated/cover-sea.jpg",
+    "hash": "a2163143b19b96f83aa67d82d242abe3f8a0c1cebd517f5521104592d33a3333",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "cover-orchard",
+    "type": "cover",
+    "storyId": "library-orchard",
+    "url": "/images/generated/cover-orchard.jpg",
+    "hash": "39552e217fb0f14ce1c403d97f61fae1a80f07d0fcf529d232a05cd23e533fd8",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "cover-europa",
+    "type": "cover",
+    "storyId": "library-europa",
+    "url": "/images/generated/cover-europa.jpg",
+    "hash": "1d77415671487b2f0a24a4f4f10fd40f797915641d025bd491bb2f5f356b7e96",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "cover-names",
+    "type": "cover",
+    "storyId": "library-names",
+    "url": "/images/generated/cover-names.jpg",
+    "hash": "57413767c422e4548b516062d1d8fe4fd9eff5f92d2157c504f139b50b59ed55",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "cover-ember",
+    "type": "cover",
+    "storyId": "library-ember",
+    "url": "/images/generated/cover-ember.jpg",
+    "hash": "f3153f9e891079385d75b634a1383a1a63a915544e38f5a01303c6fba39d7d72",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "cover-starter",
+    "type": "cover",
+    "storyId": "midnight",
+    "url": "/images/generated/cover-starter.jpg",
+    "hash": "d182adb8b8963ba82c995cd77e28a2bdc59e4cdaa94b2e7f0c90aaa6c11ac420",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-midnight-quarter",
+    "type": "location",
+    "storyId": "library-midnight",
+    "ownerId": "midnight-quarter",
+    "url": "/images/generated/location-midnight-quarter.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Old Quarter\" in the original story \"The Midnight Invitation: Complete Edition\". Environment: A district built around an abandoned tram loop. Elara repairs instruments above a shuttered music shop. At midnight, the copper gutters ring in a wind that never reaches the street. The room’s narrow window, an inherited kettle, and a repaired violin case establish the ordinary life she risks losing.. Mood: Rain-washed · Intimate · Uneasy. Interior / Exterior · Midnight. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "1442ff3c5dae349deec7d5f85920a3897e5799c634052d56b0d0b2a2c0c9b692",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-midnight-castle",
+    "type": "location",
+    "storyId": "library-midnight",
+    "ownerId": "midnight-castle",
+    "url": "/images/generated/location-midnight-castle.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"Ashford Castle\" in the original story \"The Midnight Invitation: Complete Edition\". Environment: A functioning school and archive above a valley that appears on no public map. The east tower holds a machine that removes dangerous memories and, increasingly, harmless ones. Changes in the castle’s doors follow changes in what its residents are allowed to remember.. Mood: Beautiful · Institutional · Untrustworthy. Interior / Exterior · Dawn & night. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "5b9449154b4d174097560b674a32a51b257eed72a2d8c243334a15e88b4d6f04",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-midnight-library",
+    "type": "location",
+    "storyId": "library-midnight",
+    "ownerId": "midnight-library",
+    "url": "/images/generated/location-midnight-library.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Restricted Library\" in the original story \"The Midnight Invitation: Complete Edition\". Environment: An archive beneath the school. Shelf labels name people rather than subjects. A shallow brass bowl holds water that reflects the last truthful thing said nearby. Maeve records every removed memory here, including evidence of her own complicity.. Mood: Quiet · Confessional · Forbidden. Interior · Night. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "2366f1dd591b1bf80a6c21c72537b30744d8c9129581621484a594d662ed7afc",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-midnight-wood",
+    "type": "location",
+    "storyId": "library-midnight",
+    "ownerId": "midnight-wood",
+    "url": "/images/generated/location-midnight-wood.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Whispering Wood\" in the original story \"The Midnight Invitation: Complete Edition\". Environment: A forest of white-barked trees beyond the northern gate. Names spoken here return as echoes from different directions. A root bridge crosses the river to the village; it remains visible only to people who admit what they are afraid of.. Mood: Living · Disorienting · Protective. Exterior · Predawn. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "d1531affd3a18213c8fc83e7246b97c791900a6066761fb62b2d312e15ba1368",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-sea-port",
+    "type": "location",
+    "storyId": "library-sea",
+    "ownerId": "sea-port",
+    "url": "/images/generated/location-sea-port.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"Brinehaven\" in the original story \"The Clockwork Sea\". Environment: A tidal city built on rusting stilts. A vast clock predicts the tide, and every family carries a brass flood token. Its lower wards flood first while wealthy terraces are protected by privately owned pumps.. Mood: Salt-stung · Mechanical · Divided. Exterior · Storm season. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "b0a3197f98718ad1a61edb078fc4ede915b4bf99d70687b7170d1f0beccaab4e",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-sea-engine",
+    "type": "location",
+    "storyId": "library-sea",
+    "ownerId": "sea-engine",
+    "url": "/images/generated/location-sea-engine.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Pelagic Engine\" in the original story \"The Clockwork Sea\". Environment: A submerged turbine chamber beneath the harbour clock. Tide records reveal that the engine is not predicting water but quietly holding it away from the upper city.. Mood: Claustrophobic · Deafening · Corroded. Interior · Below sea level. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "ec9e00ada1f939048d2fb8547ac91120f3e52ff0e1e6cf57c76f8fb4a6581451",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-sea-island",
+    "type": "location",
+    "storyId": "library-sea",
+    "ownerId": "sea-island",
+    "url": "/images/generated/location-sea-island.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"Bellwether Island\" in the original story \"The Clockwork Sea\". Environment: A derelict weather station on a granite island. Its cable can transmit the city’s last warning, but the settlement has only enough dry ground for those who arrive before the storm front.. Mood: Exposed · Communal · Fragile. Exterior / Interior · Night. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "be05c6a8a33f4a64beefbd37603c6cae567dab2018f265148e1adf01a23a768b",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-orchard-glass",
+    "type": "location",
+    "storyId": "library-orchard",
+    "ownerId": "orchard-glass",
+    "url": "/images/generated/location-orchard-glass.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Glass Orchard\" in the original story \"The Glass Orchard\". Environment: Terraced trees carry transparent fruit containing preserved sensory memories. Every harvest is sold to people who can no longer remember a loved one. Pollination depends on a small wild grove the company has marked for removal.. Mood: Luminous · Fertile · Controlled. Exterior · Early summer. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "bfb005ae71473674fa90f68166e1f1526e99e99b0ca4fbde0a47e9a0202a4f1f",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-orchard-lab",
+    "type": "location",
+    "storyId": "library-orchard",
+    "ownerId": "orchard-lab",
+    "url": "/images/generated/location-orchard-lab.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"House of Germination\" in the original story \"The Glass Orchard\". Environment: A sealed botanical laboratory beneath the terraces. Root samples show that the orchard is copying living memory from nearby residents rather than manufacturing it.. Mood: Sterile · Root-bound · Secretive. Interior · Day. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "088a534e4e7cd86f04ce21807dda8ab37037498ecde3c14055ac8379a06cf152",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-orchard-river",
+    "type": "location",
+    "storyId": "library-orchard",
+    "ownerId": "orchard-river",
+    "url": "/images/generated/location-orchard-river.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Open River\" in the original story \"The Glass Orchard\". Environment: An irrigation river lined with family gardens. Its free-growing trees carry imperfect fruit with no marketable guarantees, but do not extract memory from anyone.. Mood: Imperfect · Abundant · Shared. Exterior · Dawn. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "249d3cd4d5a392a302daf112ba9566001c5ae1c0d13b7bd78f4982112fe4b465",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-europa-station",
+    "type": "location",
+    "storyId": "library-europa",
+    "ownerId": "europa-station",
+    "url": "/images/generated/location-europa-station.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"Aster Station\" in the original story \"Last Light on Europa\". Environment: An ageing research habitat above Europa. Windows face a world nobody is authorised to enter. The station’s life support can sustain the crew or a contaminated rescue capsule, not both indefinitely.. Mood: Precise · Isolated · Deteriorating. Interior · Orbital night. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "e6da6e776f8254f498688afc85bccb45c47b8ea94b3a3c4c0e398e253705f03b",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-europa-ice",
+    "type": "location",
+    "storyId": "library-europa",
+    "ownerId": "europa-ice",
+    "url": "/images/generated/location-europa-ice.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Blue Fissure\" in the original story \"Last Light on Europa\". Environment: A fracture in the moon’s ice where a probe records patterns that respond to human timing. Pressure, radiation exposure, and limited communications make every delay a physical decision.. Mood: Vast · Unfamiliar · Responsive. Exterior · Subsurface expedition. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "c2640d3735526380ddcf38ede145e5859568d5927cb013540f8e1fe001c4f787",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-europa-relay",
+    "type": "location",
+    "storyId": "library-europa",
+    "ownerId": "europa-relay",
+    "url": "/images/generated/location-europa-relay.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"Relay Nine\" in the original story \"Last Light on Europa\". Environment: A decommissioned communications platform with an independent air loop. It can hold an isolated crew for several weeks if someone repairs its cracked thermal shield.. Mood: Silent · Improvised · Hopeful. Interior / Exterior · Deep space. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "421de1834f6028e4af3a2d326aa5ceb85a65766d43bcf195892d46290082feba",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-names-market",
+    "type": "location",
+    "storyId": "library-names",
+    "ownerId": "names-market",
+    "url": "/images/generated/location-names-market.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Name Exchange\" in the original story \"The City of Borrowed Names\". Environment: A covered market where citizens rent professional identities. Name tokens open clinics, housing lists, and work permits. Every transaction is legal, and every rented identity leaves someone less able to prove who they are.. Mood: Neon-lit · Bureaucratic · Crowded. Interior / Exterior · Rainy evening. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "d13dcddae389850a6bb7ab5bfe0fd175ce57bc944f8312f2afdee8251e956f77",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-names-archive",
+    "type": "location",
+    "storyId": "library-names",
+    "ownerId": "names-archive",
+    "url": "/images/generated/location-names-archive.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Registry Below\" in the original story \"The City of Borrowed Names\". Environment: A subterranean record hall where original identities survive beneath layers of licensed aliases. Unclaimed names are scheduled for deletion during an annual database consolidation.. Mood: Ordered · Vast · Airless. Interior · Night. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "9cd2ece34eca7c9ca6a5eddac6fde720fb6ad6ee74413b7dc1027018e6a9df9d",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-names-roof",
+    "type": "location",
+    "storyId": "library-names",
+    "ownerId": "names-roof",
+    "url": "/images/generated/location-names-roof.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Rooftop Assembly\" in the original story \"The City of Borrowed Names\". Environment: A laundry roof above the market with a pirate radio antenna and an improvised projection screen. Here, private injuries can become a public record.. Mood: Windy · Exposed · Collective. Exterior · Dawn. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "9798c1e121c53b79774e7d85365bb1d6ce9ce52e81e4d9cb442e70a93d430412",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-ember-desert",
+    "type": "location",
+    "storyId": "library-ember",
+    "ownerId": "ember-desert",
+    "url": "/images/generated/location-ember-desert.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Ember March\" in the original story \"The Ember Atlas\". Environment: A desert crossed by migrating settlements. Its maps describe water rights as carefully as geography. A newly uncovered route could connect the wells, but publishing it without consent would expose communities to prospectors.. Mood: Severe · Open · Inhabited. Exterior · Dry season. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "c0043e27394b0f5448528b2cd6c579002d381e422fdbc2be52504b54c27e3c45",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-ember-vault",
+    "type": "location",
+    "storyId": "library-ember",
+    "ownerId": "ember-vault",
+    "url": "/images/generated/location-ember-vault.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Cartographer’s Vault\" in the original story \"The Ember Atlas\". Environment: A buried observatory containing route records made by the families who maintained desert wells. The imperial atlas has erased their names and converted stewardship into supposedly empty territory.. Mood: Ancient · Exact · Contested. Interior · Noon. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "8ab2e4102096e2de1a2f0c84bc9b42fd9c6a7842c959a6566980f0da17521aa5",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-location-ember-well",
+    "type": "location",
+    "storyId": "library-ember",
+    "ownerId": "ember-well",
+    "url": "/images/generated/location-ember-well.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "prompt": "Use case: photorealistic environment reference. Create ONE distinct wide cinematic establishing image for the location \"The Council of Wells\" in the original story \"The Ember Atlas\". Environment: A ring of underground reservoirs shared by travelling communities. Its council convenes at night so guards, herders, and children can all attend before departure.. Mood: Hospitable · Pragmatic · Collective. Exterior / Interior · Night. Beautiful physically realistic architecture and materials, atmospheric light, carefully designed landmarks, 28mm lens. This is ONLY this location, not a poster or collage; no other locations. No prominent characters, no typography, watermark, logo, or franchise references.",
+    "hash": "56e52ca63b60f26705ef55c842313cf1b8a7cfceaeddf6f7642601d69f56cc11",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-orren-vale",
+    "type": "character",
+    "storyId": "library-midnight",
+    "ownerId": "orren-vale",
+    "url": "/images/generated/character-orren-vale.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Orren Vale, age 46, for The Midnight Invitation: Complete Edition. The school’s elegant director. A childhood disaster convinced him that grief makes people dangerous. He now measures peace by the absence of complaint. Orren speaks gently, never threatens without offering comfort, and sees Elara as a technical solution rather than an enemy. He is most dangerous when he is sincerely compassionate.. Story motivation: Make the engine permanent before its damage becomes public.; conflict He cannot distinguish caring for people from deciding which parts of them are permitted to exist.. Character development brief for Orren Vale, 46. The school’s elegant director. A childhood disaster convinced him that grief makes people dangerous. He now measures peace by the absence of complaint. Orren speaks gently, never threatens without offering comfort, and sees Elara as a technical solution rather than an enemy. He is most dangerous when he is sincerely compassionate. Motivation: Make the engine permanent before its damage becomes public. Central conflict: He cannot distinguish caring for people from deciding which parts of them are permitted to exist. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "09879323ee715c8e9718508f56369fc2e471bee5107d95d4c4609de0211de1bb",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-nima-oss",
+    "type": "character",
+    "storyId": "library-sea",
+    "ownerId": "nima-oss",
+    "url": "/images/generated/character-nima-oss.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Nima Oss, age 31, for The Clockwork Sea. A harbour clock mechanic who learned to read tides from her missing father’s notebooks. Nima trusts measurable systems and regards civic politics as a distraction until the numbers prove someone is purchasing safety with other people’s homes.. Story motivation: Find her father and expose the false tide predictions.; conflict Her faith in technical solutions collides with a problem caused by ownership rather than faulty engineering.. Character development brief for Nima Oss, 31. A harbour clock mechanic who learned to read tides from her missing father’s notebooks. Nima trusts measurable systems and regards civic politics as a distraction until the numbers prove someone is purchasing safety with other people’s homes. Motivation: Find her father and expose the false tide predictions. Central conflict: Her faith in technical solutions collides with a problem caused by ownership rather than faulty engineering. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "0234a0fb39da3febfc0eb6a6a7999f51a1f94fc8c26b793b5bf468641669e0f1",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-tavi-reed",
+    "type": "character",
+    "storyId": "library-sea",
+    "ownerId": "tavi-reed",
+    "url": "/images/generated/character-tavi-reed.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Tavi Reed, age 19, for The Clockwork Sea. A courier from the lower wards who memorises escape routes and delivers medicines by skiff. Quick to joke, he keeps a list of neighbours who cannot climb. His practical courage challenges Nima’s habit of waiting for complete information.. Story motivation: Get his mother and the ward’s housebound residents to higher ground.; conflict Leaving early would protect his family but abandon people who depend on him.. Character development brief for Tavi Reed, 19. A courier from the lower wards who memorises escape routes and delivers medicines by skiff. Quick to joke, he keeps a list of neighbours who cannot climb. His practical courage challenges Nima’s habit of waiting for complete information. Motivation: Get his mother and the ward’s housebound residents to higher ground. Central conflict: Leaving early would protect his family but abandon people who depend on him. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "354dcc6670c58ba7a0b10b972a61c584c0dabb53d7bea6954902e33e82bbf01a",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-sena-oss",
+    "type": "character",
+    "storyId": "library-sea",
+    "ownerId": "sena-oss",
+    "url": "/images/generated/character-sena-oss.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Sena Oss, age 63, for The Clockwork Sea. Nima’s father, detained after discovering the tide engine’s true operation. He designed its first regulators but refused to certify its privately sold safety margins. Years of captivity have made him cautious without making him obedient.. Story motivation: Stop the engine before its concealed pressure fractures the harbour wall.; conflict He wants to protect Nima from the consequences of a truth he taught her to pursue.. Character development brief for Sena Oss, 63. Nima’s father, detained after discovering the tide engine’s true operation. He designed its first regulators but refused to certify its privately sold safety margins. Years of captivity have made him cautious without making him obedient. Motivation: Stop the engine before its concealed pressure fractures the harbour wall. Central conflict: He wants to protect Nima from the consequences of a truth he taught her to pursue. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "222ed28c15c74394c8b3e6728201ab5c01f4b1c21170b34b351600a7f2fbadb0",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-councillor-vane",
+    "type": "character",
+    "storyId": "library-sea",
+    "ownerId": "councillor-vane",
+    "url": "/images/generated/character-councillor-vane.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Ilyan Vane, age 52, for The Clockwork Sea. A shipping magnate elected to manage the city’s flood authority. Vane sincerely believes profitable trade keeps Brinehaven alive and therefore treats wealthy districts as infrastructure worth saving first.. Story motivation: Preserve the upper port and the authority’s solvency.; conflict His definition of survival excludes the people who do the surviving.. Character development brief for Ilyan Vane, 52. A shipping magnate elected to manage the city’s flood authority. Vane sincerely believes profitable trade keeps Brinehaven alive and therefore treats wealthy districts as infrastructure worth saving first. Motivation: Preserve the upper port and the authority’s solvency. Central conflict: His definition of survival excludes the people who do the surviving. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "d7d1287a5d8fbf80821a1c8689055858c0653ddf3288a0ae4a62a07df7f43bc3",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-iris-quell",
+    "type": "character",
+    "storyId": "library-orchard",
+    "ownerId": "iris-quell",
+    "url": "/images/generated/character-iris-quell.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Iris Quell, age 34, for The Glass Orchard. A graft specialist returning home after her brother’s death. Iris can identify a tree by the shape of a scar in its bark. She has bought one memory fruit and is ashamed that hearing her brother’s voice matters more to her than asking who paid for it.. Story motivation: Understand why her brother’s final harvest failed.; conflict The discovery that preserves his voice also perpetuates the harm he died trying to stop.. Character development brief for Iris Quell, 34. A graft specialist returning home after her brother’s death. Iris can identify a tree by the shape of a scar in its bark. She has bought one memory fruit and is ashamed that hearing her brother’s voice matters more to her than asking who paid for it. Motivation: Understand why her brother’s final harvest failed. Central conflict: The discovery that preserves his voice also perpetuates the harm he died trying to stop. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "f439aa1d6c82829ea0f38578c26d7d617972b692ca487bc42dcce2be9f513a67",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-orin-quell",
+    "type": "character",
+    "storyId": "library-orchard",
+    "ownerId": "orin-quell",
+    "url": "/images/generated/character-orin-quell.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Orin Quell, age 29, for The Glass Orchard. Iris’s late brother, an irrigation engineer who recorded evidence inside unsold fruit. Remembered as reckless by his employer, he was quietly careful with the orchard’s oldest trees.. Story motivation: Leave evidence that someone he trusts can understand.; conflict He could expose the theft only by working inside the system long enough to become implicated in it.. Character development brief for Orin Quell, 29. Iris’s late brother, an irrigation engineer who recorded evidence inside unsold fruit. Remembered as reckless by his employer, he was quietly careful with the orchard’s oldest trees. Motivation: Leave evidence that someone he trusts can understand. Central conflict: He could expose the theft only by working inside the system long enough to become implicated in it. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "4d2d6b80a1eb36d33ce445ec367e2d968b288ec62195e6c4c6b6d9a2cfafdafb",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-petra-moss",
+    "type": "character",
+    "storyId": "library-orchard",
+    "ownerId": "petra-moss",
+    "url": "/images/generated/character-petra-moss.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Petra Moss, age 67, for The Glass Orchard. A local nursery owner whose memories of her husband are vanishing. Petra tracks losses on paper and refuses to let others treat her as a collection of symptoms. Her garden preserves the wild species the orchard has replaced.. Story motivation: Keep the right to decide which memories and plants are worth preserving.; conflict She needs care from neighbours while fighting the industry that employs them.. Character development brief for Petra Moss, 67. A local nursery owner whose memories of her husband are vanishing. Petra tracks losses on paper and refuses to let others treat her as a collection of symptoms. Her garden preserves the wild species the orchard has replaced. Motivation: Keep the right to decide which memories and plants are worth preserving. Central conflict: She needs care from neighbours while fighting the industry that employs them. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "df089a5584105a834e7960a4715c55b56ac6736615d5a5c6eb86d85abd5bf849",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-director-cairn",
+    "type": "character",
+    "storyId": "library-orchard",
+    "ownerId": "director-cairn",
+    "url": "/images/generated/character-director-cairn.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Leonie Cairn, age 48, for The Glass Orchard. Director of the orchard cooperative after converting it into a private biotech company. Cairn built a business offering relief from grief and cannot bear to acknowledge that its raw material is stolen.. Story motivation: Complete the export harvest before the root network is discovered.; conflict Her genuine belief in the comfort of the product has become an excuse not to examine its source.. Character development brief for Leonie Cairn, 48. Director of the orchard cooperative after converting it into a private biotech company. Cairn built a business offering relief from grief and cannot bear to acknowledge that its raw material is stolen. Motivation: Complete the export harvest before the root network is discovered. Central conflict: Her genuine belief in the comfort of the product has become an excuse not to examine its source. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "91094bde393953452e4c3060050f88343035b3e5151b76ebebe14988b25c7a21",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-dr-ada-sen",
+    "type": "character",
+    "storyId": "library-europa",
+    "ownerId": "dr-ada-sen",
+    "url": "/images/generated/character-dr-ada-sen.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Dr Ada Sen, age 39, for Last Light on Europa. A xenobiologist responsible for Aster’s sterile-contact protocols. Ada wrote the rule that no rescue should contaminate a possible ecosystem. Her former partner is aboard the capsule that now tests whether she can apply her own principle without becoming inhuman.. Story motivation: Bring the rescue crew home without destroying evidence of nonhuman life.; conflict Scientific caution becomes emotionally intolerable when the person waiting for air has a familiar voice.. Character development brief for Dr Ada Sen, 39. A xenobiologist responsible for Aster’s sterile-contact protocols. Ada wrote the rule that no rescue should contaminate a possible ecosystem. Her former partner is aboard the capsule that now tests whether she can apply her own principle without becoming inhuman. Motivation: Bring the rescue crew home without destroying evidence of nonhuman life. Central conflict: Scientific caution becomes emotionally intolerable when the person waiting for air has a familiar voice. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "ade26232abebae934b07bbbe025b3e89de1bac27e174c2a7fd7de638a8742be4",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-noah-voss",
+    "type": "character",
+    "storyId": "library-europa",
+    "ownerId": "noah-voss",
+    "url": "/images/generated/character-noah-voss.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Noah Voss, age 41, for Last Light on Europa. A pilot who chose a dangerous ice survey after his relationship with Ada ended. Noah communicates in practical observations rather than reassurance and refuses to let his need for rescue stand in for consent from the ecosystem.. Story motivation: Keep his two crewmates alive and preserve the contact recordings.; conflict He must ask for help without asking Ada to abandon the ethics they once shared.. Character development brief for Noah Voss, 41. A pilot who chose a dangerous ice survey after his relationship with Ada ended. Noah communicates in practical observations rather than reassurance and refuses to let his need for rescue stand in for consent from the ecosystem. Motivation: Keep his two crewmates alive and preserve the contact recordings. Central conflict: He must ask for help without asking Ada to abandon the ethics they once shared. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "0b8dc39fe2e25d28d9d13af66d0570ce902875d473c3b4117c0b3a9c6416ccbe",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-mei-okoro",
+    "type": "character",
+    "storyId": "library-europa",
+    "ownerId": "mei-okoro",
+    "url": "/images/generated/character-mei-okoro.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Mei Okoro, age 27, for Last Light on Europa. The youngest engineer on Aster and the person most familiar with the station’s unofficial repairs. Mei understands hardware as a history of compromises. Her proposal to revive Relay Nine makes a third form of responsibility imaginable.. Story motivation: Turn institutional risk limits into a workable rescue design.; conflict She has to challenge senior scientists without understating the danger of her own plan.. Character development brief for Mei Okoro, 27. The youngest engineer on Aster and the person most familiar with the station’s unofficial repairs. Mei understands hardware as a history of compromises. Her proposal to revive Relay Nine makes a third form of responsibility imaginable. Motivation: Turn institutional risk limits into a workable rescue design. Central conflict: She has to challenge senior scientists without understating the danger of her own plan. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "8044a7f16c01f6f6e776f45c90c81d48130004d8aa9bcd62c0ebd903279c1cc6",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-captain-reyes",
+    "type": "character",
+    "storyId": "library-europa",
+    "ownerId": "captain-reyes",
+    "url": "/images/generated/character-captain-reyes.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Captain Tomas Reyes, age 54, for Last Light on Europa. A career mission commander with a strict duty to the unexposed crew. Reyes initially treats quarantine as a binary choice, then learns that leadership includes making time for a proposal he did not invent.. Story motivation: Return all personnel safely while maintaining mission containment.; conflict Decisiveness can protect a crew or prematurely close its best options.. Character development brief for Captain Tomas Reyes, 54. A career mission commander with a strict duty to the unexposed crew. Reyes initially treats quarantine as a binary choice, then learns that leadership includes making time for a proposal he did not invent. Motivation: Return all personnel safely while maintaining mission containment. Central conflict: Decisiveness can protect a crew or prematurely close its best options. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "4407b82fb8469337324049d696e0977151e61bb418e2d3c0b237fa46e0804e2e",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-mara-vel",
+    "type": "character",
+    "storyId": "library-names",
+    "ownerId": "mara-vel",
+    "url": "/images/generated/character-mara-vel.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Mara Vel, age 26, for The City of Borrowed Names. A courier renting a paramedic’s name to gain access to medicine for her younger sister. Mara can memorise a delivery route after one walk, but has begun forgetting which memories belong to her licensed identities.. Story motivation: Recover her original legal name before the registry deletes it.; conflict Returning every borrowed name may remove the access that keeps her sister alive.. Character development brief for Mara Vel, 26. A courier renting a paramedic’s name to gain access to medicine for her younger sister. Mara can memorise a delivery route after one walk, but has begun forgetting which memories belong to her licensed identities. Motivation: Recover her original legal name before the registry deletes it. Central conflict: Returning every borrowed name may remove the access that keeps her sister alive. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "8dc5437c9ce12a4032cbba3a3d88b5dee82ca6b9dcec6c837dd11324bb585aff",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-felix-ren",
+    "type": "character",
+    "storyId": "library-names",
+    "ownerId": "felix-ren",
+    "url": "/images/generated/character-felix-ren.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Felix Ren, age 44, for The City of Borrowed Names. A former registry auditor whose professional identity was sold after he reported deletion errors. Felix works as a night cleaner in the archive he helped design.. Story motivation: Make original identities recoverable without turning people into another searchable commodity.; conflict His useful technical knowledge is inseparable from his role in building the system.. Character development brief for Felix Ren, 44. A former registry auditor whose professional identity was sold after he reported deletion errors. Felix works as a night cleaner in the archive he helped design. Motivation: Make original identities recoverable without turning people into another searchable commodity. Central conflict: His useful technical knowledge is inseparable from his role in building the system. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "9429a0ea5db0c856d02de96fb0849d549d5cffa1865f69c341e509aeed54e8dc",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-commissioner-saye",
+    "type": "character",
+    "storyId": "library-names",
+    "ownerId": "commissioner-saye",
+    "url": "/images/generated/character-commissioner-saye.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Commissioner Leda Saye, age 50, for The City of Borrowed Names. The official who converted civic identity into an efficiency market. Saye can quote improvements in clinic throughput while ignoring people removed from the denominator.. Story motivation: Complete the consolidation and preserve public confidence.; conflict She regards recognition as an administrative resource rather than a condition of equal citizenship.. Character development brief for Commissioner Leda Saye, 50. The official who converted civic identity into an efficiency market. Saye can quote improvements in clinic throughput while ignoring people removed from the denominator. Motivation: Complete the consolidation and preserve public confidence. Central conflict: She regards recognition as an administrative resource rather than a condition of equal citizenship. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "c98a020d1121db357096134bb6f8e6d8db2a55db4e08e1d382f5513cc141c233",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-safi-idris",
+    "type": "character",
+    "storyId": "library-ember",
+    "ownerId": "safi-idris",
+    "url": "/images/generated/character-safi-idris.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Safi Idris, age 33, for The Ember Atlas. An imperial cartographer raised in a travelling well-keeping community. Safi believed an accurate map could protect people until discovering that her employer uses accuracy to make extraction cheaper.. Story motivation: Deliver her missing mother’s route atlas to the communities named inside it.; conflict The professional recognition she earned depends on the institution that erased her family’s stewardship.. Character development brief for Safi Idris, 33. An imperial cartographer raised in a travelling well-keeping community. Safi believed an accurate map could protect people until discovering that her employer uses accuracy to make extraction cheaper. Motivation: Deliver her missing mother’s route atlas to the communities named inside it. Central conflict: The professional recognition she earned depends on the institution that erased her family’s stewardship. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "28715ec3123a678cf2507cb1f4e0ba1ec4388945e7ada1ee02507c6639f4c219",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-kellan-ro",
+    "type": "character",
+    "storyId": "library-ember",
+    "ownerId": "kellan-ro",
+    "url": "/images/generated/character-kellan-ro.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Kellan Ro, age 37, for The Ember Atlas. A supply caravan captain with debts to both the empire and the well council. Kellan’s quiet competence includes knowing when a contract has become an instruction to abandon someone.. Story motivation: Get his convoy and its passengers through the dry season without selling out their route.; conflict Repaying a lawful debt could enable a profoundly unjust claim.. Character development brief for Kellan Ro, 37. A supply caravan captain with debts to both the empire and the well council. Kellan’s quiet competence includes knowing when a contract has become an instruction to abandon someone. Motivation: Get his convoy and its passengers through the dry season without selling out their route. Central conflict: Repaying a lawful debt could enable a profoundly unjust claim. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "5487e0f108548e080b6e2a55fce6a1c2c6cad80c5da64084fa1167e6fb82647f",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-amina-idris",
+    "type": "character",
+    "storyId": "library-ember",
+    "ownerId": "amina-idris",
+    "url": "/images/generated/character-amina-idris.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Amina Idris, age 61, for The Ember Atlas. Safi’s mother, presumed dead after refusing to surrender the location of a communal reservoir. Amina has preserved route knowledge through songs, maintenance records, and shared teaching rather than a single secret map.. Story motivation: Make the atlas useful without allowing it to become a weapon of ownership.; conflict She has protected her daughter through silence, at the cost of letting an institution tell their history.. Character development brief for Amina Idris, 61. Safi’s mother, presumed dead after refusing to surrender the location of a communal reservoir. Amina has preserved route knowledge through songs, maintenance records, and shared teaching rather than a single secret map. Motivation: Make the atlas useful without allowing it to become a weapon of ownership. Central conflict: She has protected her daughter through silence, at the cost of letting an institution tell their history. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "31f2af9ef2dbb8afbde02ae720f5e714d3448d1c0215a7dc9d29a3a40465c369",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-marshal-vey",
+    "type": "character",
+    "storyId": "library-ember",
+    "ownerId": "marshal-vey",
+    "url": "/images/generated/character-marshal-vey.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Use case: character identity reference. Create ONE professional landscape reference sheet of an original human character named Marshal Cassian Vey, age 49, for The Ember Atlas. An imperial survey commissioner who treats unregistered stewardship as absence. Vey remains courteous while ordering legal notices placed on wells whose keepers cannot attend the distant courts that issued them.. Story motivation: Register the Council of Wells as an imperial concession.; conflict His authority depends on describing inhabited land as vacant.. Character development brief for Marshal Cassian Vey, 49. An imperial survey commissioner who treats unregistered stewardship as absence. Vey remains courteous while ordering legal notices placed on wells whose keepers cannot attend the distant courts that issued them. Motivation: Register the Council of Wells as an imperial concession. Central conflict: His authority depends on describing inhabited land as vacant. Create a consistent, naturalistic live-action identity, credible physical features, culturally grounded clothing, and a four-angle full-body reference. Maintain the same age, proportions, hair, and costume across front, profile, three-quarter, and back views. Realistic skin pores and fabric textures. No text, watermark, celebrity likeness, or inconsistent accessories. Hyper-realistic live-action human photographed in a studio, real skin pores, facial asymmetry, natural hair and detailed futuristic fantasy clothing appropriate to their role in this world. In ONE image arrange full-body front, back, side and three-quarter views plus detailed facial close-ups with neutral, concerned, angry and hopeful expressions. Exactly the same unique human identity, age, hair, proportions and costume in every view. Full feet visible, neutral warm-gray seamless backdrop, coherent studio lighting. No celebrity resemblance, no text, no logos, no watermark. Distinct from other characters; not a scene or environment image.",
+    "hash": "05bfecdcae60b683aa002a76877b407d42db5da50af3658a46fe431da80ba714",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  },
+  {
+    "id": "art-character-joss-vel",
+    "type": "character",
+    "storyId": "library-names",
+    "ownerId": "joss-vel",
+    "url": "/images/generated/character-joss-vel.jpg",
+    "approved": true,
+    "source": "OpenAI image generation",
+    "coverage": [
+      "full-body",
+      "facial-closeups",
+      "expressions"
+    ],
+    "prompt": "Create one landscape character design reference sheet for an original fictional character, Joss Vel, a 16-year-old girl and amateur radio enthusiast in a futuristic city. Family-friendly, fully clothed in a practical oversized charcoal rain jacket, cream crew-neck sweater, loose cargo trousers and sturdy boots, carrying a small handmade radio. Realistic natural human photography, age-appropriate styling and ordinary proportions, natural skin texture and dark wavy hair, no makeup glamour. Arrange full-body front, side, three-quarter and back views, plus small facial close-ups showing neutral, thoughtful and hopeful expressions in the same single image. Identical face and clothing in every view. Neutral gray studio background, soft even light, feet visible. No text, logo, watermark or celebrity likeness.",
+    "hash": "53dd609fc2e35ceed199ec0505fb6e16d2e285cdf0b3bf1c23d8e73f790d68e5",
+    "createdAt": "2026-10-20T00:00:00.000Z",
+    "bundled": true
+  }
+]

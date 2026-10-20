@@ -4,7 +4,8 @@ export async function apiRequest(path,options={}){
 }
 const uploads=new Map();
 export async function syncLocalAsset(asset,storyId){
- if(!asset.blob)return asset.id;
+ if(!asset.blob&&!asset.bundled)return asset.id;
+ if(asset.bundled&&!asset.blob){const response=await fetch(asset.url);if(!response.ok)throw Error('The bundled reference could not be loaded.');asset={...asset,blob:await response.blob()};}
  const key=storyId+':'+asset.id;if(uploads.has(key))return uploads.get(key);
  const data=await apiRequest('/assets',{method:'POST',headers:{'Content-Type':asset.blob.type,'X-Quill-Asset':encodeURIComponent(JSON.stringify({type:asset.type,ownerId:asset.ownerId,storyId,prompt:asset.prompt?.slice(0,2000),approved:asset.approved||false,localSourceId:asset.id}))},body:asset.blob});uploads.set(key,data.id);return data.id;
 }

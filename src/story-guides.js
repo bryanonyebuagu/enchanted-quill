@@ -1,0 +1,12 @@
+const themes={
+ midnight:[['Memory and consent','Who may decide which memories another person is allowed to keep?'],['Institutional complicity','Care and education become harmful when their custodians hide the cost of peace.'],['Identity and repair','Elara must decide what returning the past demands of the present.']],
+ sea:[['Climate justice','The protected terraces and flooded lower wards reveal who pays for safety.'],['Responsibility and care','Family loyalty is tested against obligations to an entire harbour.'],['Collective survival','Technical solutions only help when people share information and refuge.']],
+ orchard:[['Grief and remembrance','The desire to remember a loved one makes manufactured certainty tempting.'],['Ecological reciprocity','The orchard survives through living systems that cannot be owned without consequence.'],['The ownership of memory','A product sold as comfort depends on taking something from its neighbours.']],
+ europa:[['Scientific stewardship','First contact demands restraint as well as discovery.'],['Trust under isolation','A crew with limited air must decide whose knowledge and judgement to trust.'],['The cost of rescue','Saving a life changes the risks borne by everyone else.']],
+ names:[['Dignity and identity','Access to shelter and medicine must not depend on surrendering a true name.'],['Family and consent','Joss refuses to become an excuse for harming strangers.'],['Public accountability','Private injuries can become evidence that a whole community can act upon.']],
+ ember:[['Communal stewardship','Water routes belong to the communities who sustain them.'],['Cartography and power','A map can make a people visible or turn their home into a target.'],['Knowledge and consent','Sharing a discovery requires listening to the people it will affect.']]
+};
+export function applyStoryGuides(projects){for(const p of projects){const key=p.id.replace('library-','');if(!p.id.startsWith('library-')||!themes[key])continue;
+ if(!p.themes)p.themes=themes[key].map(([name,description],i)=>({id:p.id+'-theme-'+i,name,description,sceneIds:p.scenes.filter((s,j)=>j%3===i).map(s=>s.id),source:'Authored story guide'}));
+ if(!p.storyPlan){const summary=s=>s?.text?.split(/(?<=[.!?])\s+/u).slice(0,3).join(' ')||'';p.storyPlan={premise:p.description||'',beginning:summary(p.scenes[0]),conflict:p.description||'',climax:summary(p.scenes[Math.min(7,p.scenes.length-1)]),resolution:p.scenes.filter(s=>!s.choices.length).map(s=>s.title+': '+summary(s)).join('\n\n')};}
+}}
