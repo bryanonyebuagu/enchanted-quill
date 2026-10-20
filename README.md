@@ -1,6 +1,8 @@
 # Enchanted Quill
 
-A Svelte 5 story intelligence workspace with a node-based storytelling canvas, scene direction, and a Higgsfield-ready generation architecture. The design uses Inter, Space Grotesk, white/black surfaces and lemon (#DFFF00).
+Enchanted Quill is a visual storytelling studio for writers, filmmakers, and creative teams. Develop a story from its first idea to its final outcome, organize recurring characters and locations, and connect every moment on an interactive branching storyboard.
+
+A cinematic castle backdrop, spacious typography, white and black surfaces, and vibrant lemon accents frame the workspace. The sun and moon control in the navbar switches between light and dark mode and remembers your preference.
 
 ## Development
 
@@ -36,3 +38,22 @@ Character identity, location environment and narrative scene assets are distinct
 ## Stack
 
 Svelte 5, Svelte Flow (@xyflow/svelte), Vite, Lucide, Cloudflare Workers/D1/R2, and the retained Sites build integration. No React runtime or separate animation framework is required.
+
+## Project structure
+
+```text
+.openai/              Hosting manifest
+build/                Hosting build integration
+drizzle/              Database schema and migration metadata
+public/images/        Backgrounds, portraits, and reference sheets
+server/               Worker routes, storage, jobs, credits, provider adapter, and tests
+src/components/       Canvas, scene direction, asset libraries, and studio panels
+src/                  Svelte application, story content, styles, data models, and tests
+.env.example          Environment variable template without credentials
+GENERATION.md         Provider configuration and activation guide
+package.json          Dependencies and development scripts
+vite.config.js        Application and Worker build configuration
+wrangler.jsonc        Local Worker and storage bindings
+```
+
+Install dependencies from the lockfile before development. Generated build output, dependencies, local databases, private environment files, and runtime user uploads are intentionally excluded from source control. Configure deployment secrets in the hosting environment. Existing production projects and uploaded assets remain in their database and object storage.

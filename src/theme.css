@@ -1,0 +1,42 @@
+/* Theme changes only: preserve the existing workspace geometry and imagery. */
+.studio{isolation:isolate;background:transparent}
+.world-background{opacity:1}
+.studio:before{background:linear-gradient(90deg,rgba(247,248,243,.94),rgba(247,248,243,.74) 45%,rgba(247,248,243,.57))}
+.main-scroll{background:transparent}
+.theme-toggle{min-width:36px;min-height:36px;border-radius:50%;color:#444b35;background:#f0f3e8;transition:background .18s,color .18s,transform .18s}
+.theme-toggle:hover{background:#dfff00;color:#151800;transform:rotate(12deg)}
+.theme-toggle:focus-visible{outline:2px solid #819400;outline-offset:3px}
+html[data-theme=dark]{color-scheme:dark;--ink:#eff1e9;--paper:#181b16;--muted:#b0b7a6;--line:#363d2e}
+html[data-theme=dark] .studio{--muted:#b0b7a6;--line:#363d2e;--accent:#dfff00;color:#eff1e9}
+html[data-theme=dark] .studio:before{background:linear-gradient(90deg,#11151deb,#13181bc7 45%,#1a1e24a6)}
+html[data-theme=dark] .topbar{background:#151912f5;color:#eff1e9;border-color:#363d2e}
+html[data-theme=dark] .topbar :is(.topbar-right,.save-state,.preview-label,.workspace-crumb,.icon){color:#c6ceba}
+html[data-theme=dark] .theme-toggle{background:#2b3222;color:#dfff00}
+html[data-theme=dark] .main-scroll :is(.surface,.metric-card,.knowledge-card,.theme-card,.memory-card,.branch-node,.new-scene-card,.search-field,.filter-select,.character-card,.location-card,.scene-card,.prompt-library-card){background:#1a1f18ed;border-color:#363d2e;box-shadow:0 5px 22px #00000015}
+html[data-theme=dark] :is(.director-section,.director-output,.generation-studio,.plan-card,.provider-panel,.provider-status-grid>div,.generation-history article,.generation-job,.canvas-properties,.canvas-library,.canvas-topbar,.canvas-connect-panel,.mobile-node-navigator,.story-node,.dialog-modal,.command-palette,.notification-popover){background:#1b2118;color:#eff1e9;border-color:#39422f}
+html[data-theme=dark] .main-scroll :is(.button.secondary,.choice-editor-row,.character-design-brief,.character-detail-tags>span,.branch-connection,.scene-card-status,.strip-list>button.selected,.subtle-badge,.sample-tag,.location-type){background:#293221;color:#d2dcc3;border-color:#414d34}
+html[data-theme=dark] .main-scroll :is(.info-banner,.quiet-note){background:#2b361a;color:#d6e5ba;border-color:#526137}
+html[data-theme=dark] .main-scroll :is(.text-button,.eyebrow,.location-detail,.character-project-name,.location-project-name,.script-scene-label,.full-prompt summary,.new-scene-card,.connect-new){color:#c4d68e}
+html[data-theme=dark] .main-scroll :is(.icon,.toolbar-actions>.icon,.scene-card-footer,.location-card footer,.prompt-details summary,.health-check,.health-link,.health-check-card,.activity-row,.knowledge-card>span,.branch-node>button>span,.branch-ending){color:#b0bea0}
+html[data-theme=dark] .main-scroll :is(.character-initials,.entity-initials,.board-image-pending,.location-reference-pending,.scene-card-image,.location-card>button){background:#2a3422;color:#bdcf9e}
+html[data-theme=dark] :is(input,select,textarea){color-scheme:dark}
+html[data-theme=dark] .main-scroll :is(input,select,textarea),html[data-theme=dark] :is(.dialog-modal,.command-palette) :is(input,select,textarea){color:#eff1e9;border-color:#46513a}
+html[data-theme=dark] :is(.director-field input,.director-field textarea,.director-field select,.prompt-editor,.reference-prompt,.generation-settings select,.canvas-connect-panel select,.mobile-node-navigator select){background:#13180f!important;color:#edf2e5!important;border-color:#46513a!important}
+html[data-theme=dark] .main-scroll :is(input,textarea)::placeholder{color:#a2ad94}
+html[data-theme=dark] :is(.director-field,.director-section-title,.director-tabs button,.director-continuity,.reference-status,.reference-help,.reference-coverage,.reference-history,.provider-notice,.generation-credit-row,.generation-title p,.generation-settings label,.plan-card p,.plan-card li,.provider-status-grid,.cloud-toolbar){color:#b5c2a4}
+html[data-theme=dark] :is(.director-tabs button.active,.director-tabs button.selected,.canvas-property-tabs button.active){background:#dfff00;color:#202900}
+html[data-theme=dark] :is(.cast-selector>button,.location-context,.inline-note,.reference-warning,.scene-image-empty,.location-reference-empty,.canvas-connections button,.node-copy button,.connected-cast>span,.creation-methods button){background:#29351e;color:#c6d6b1;border-color:#435235}
+html[data-theme=dark] .cast-selector>button.chosen{border-color:#dfff00;background:#36411b}
+html[data-theme=dark] .health-ring:after{background:#1b2118}
+html[data-theme=dark] .health-ring strong{color:#eff1e9}
+html[data-theme=dark] .health-ring>span>small{color:#b7c49f}
+html[data-theme=dark] .flow-wrap{background:#141b10}
+html[data-theme=dark] .story-node{box-shadow:0 7px 25px #00000035}
+html[data-theme=dark] :is(.node-copy h3,.canvas-properties h3,.generation-title h3,.plan-card h3,.provider-panel h3,.director-header h2){color:#eff1e9}
+html[data-theme=dark] :is(.node-copy p,.node-copy small,.canvas-properties>p,.canvas-setting,.canvas-scene-number,.canvas-properties-title>span,.canvas-property-tabs button,.canvas-connections,.canvas-library small,.canvas-library p,.canvas-library button){color:#b3c1a1}
+html[data-theme=dark] :is(.node-image-empty,.canvas-library button:hover){background:#29351e;color:#c6d6b1}
+html[data-theme=dark] .svelte-flow{--xy-controls-button-background-color:#26331d;--xy-controls-button-background-color-hover:#3b4b2c;--xy-controls-button-color:#e9efd9;--xy-controls-button-border-color:#46513a;--xy-minimap-background-color:#1b2118}
+html[data-theme=dark] .main-scroll .tabs>button{color:#bfcaaf}
+html[data-theme=dark] .main-scroll .tabs>button.selected{color:#111800}
+html[data-theme=dark] .main-scroll .button.primary,html[data-theme=dark] .button.primary{color:#151800}
+@media(prefers-reduced-motion:reduce){.theme-toggle{transition:none}.theme-toggle:hover{transform:none}}
