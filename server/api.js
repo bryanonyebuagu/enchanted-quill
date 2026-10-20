@@ -44,7 +44,7 @@ async function advance(env,job){
  }
  if(state==='completed')try{assetId=await persistResult(env,job,response);}catch(e){error=e.message;}
  if(state==='failed')error='Provider generation failed or was moderated. Reserved credits released.';
- await run(env.DB,"UPDATE quill_jobs SET state=?,asset_id=?,error=?,updated=? WHERE id=? AND state NOT IN ('canceled','failed')",state,assetId,error,Date.now(),job.id);
+ await run(env.DB,"UPDATE quill_jobs SET state=?,asset_id=?,error=?,updated=? WHERE id=? AND (state=? OR state IN ('queued','processing'))",state,assetId,error,Date.now(),job.id,state);
  return {...job,state,asset_id:assetId,error};
 }
 function validateRequest(p,c){
