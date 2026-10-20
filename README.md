@@ -1,5 +1,7 @@
 # Enchanted Quill
 
+[Live preview](https://enchanted-quill.vercel.app/) · [Hosted workspace](https://enchanted-quill-stories.proud-panda-0902.chatgpt.site/)
+
 Enchanted Quill is a visual storytelling studio for writers, filmmakers, and creative teams. Develop a story from its first idea to its final outcome, organize recurring characters and locations, and connect every moment on an interactive branching storyboard.
 
 A cinematic castle backdrop, spacious typography, white and black surfaces, and vibrant lemon accents frame the workspace. The sun and moon control in the navbar switches between light and dark mode and remembers your preference.
@@ -38,7 +40,7 @@ Character identity, location environment and narrative scene assets are distinct
 
 ## Stack
 
-Svelte 5, Svelte Flow (@xyflow/svelte), Vite, Lucide, Cloudflare Workers/D1/R2,. No React runtime or separate animation framework is required.
+Svelte 5, Svelte Flow (@xyflow/svelte), Vite, Lucide, Cloudflare Workers/D1/R2. No React runtime or separate animation framework is required.
 
 ## Project structure
 
