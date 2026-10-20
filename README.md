@@ -57,3 +57,7 @@ wrangler.jsonc        Local Worker and storage bindings
 ```
 
 Install dependencies from the lockfile before development. Generated build output, dependencies, local databases, private environment files, and runtime user uploads are intentionally excluded from source control. Configure deployment secrets in the hosting environment. Existing production projects and uploaded assets remain in their database and object storage.
+
+## Vercel preview
+
+Vercel uses `vercel.json` and `vite.vercel.config.js` to build the Svelte frontend. Story editing, reusable libraries, the canvas, prompt composition, local image imports, and browser autosave work without a server connection. The existing Cloudflare Worker, authentication, D1 database, R2 uploads, generation jobs, and credits are not migrated to Vercel. API requests in this preview return a clear unavailable response, and paid generation remains disabled. Use the original hosted workspace for its existing cloud services. Browser-local stories are separate on each domain.
