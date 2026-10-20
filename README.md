@@ -17,6 +17,7 @@ Vite produces `dist/client` and `dist/server/index.js`. The Sites hosting manife
 ## Workspace
 
 - Six complete branching story editions, 60 authored scenes, 24 character dossiers, 19 locations and 12 detailed prompt templates, alongside the original starter project.
+- Canvas controls: mouse wheel and two-finger trackpad gestures pan; hold Ctrl while scrolling to zoom. Pinch-to-zoom and the on-screen zoom controls remain available.
 - Svelte Flow canvas with character, location, scene, prompt, image and video node types; pan, zoom, arrangement, fit view, undo/redo and functional connections.
 - Reusable entity profiles, multiple characters and locations per scene, reference-version bindings, branching reader choices, scene navigator and responsive properties panels.
 - Manual story creation and a clearly labeled local draft-breakdown parser. No language-model story analyzer is connected.

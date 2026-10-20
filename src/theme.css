@@ -40,3 +40,11 @@ html[data-theme=dark] .main-scroll .tabs>button{color:#bfcaaf}
 html[data-theme=dark] .main-scroll .tabs>button.selected{color:#111800}
 html[data-theme=dark] .main-scroll .button.primary,html[data-theme=dark] .button.primary{color:#151800}
 @media(prefers-reduced-motion:reduce){.theme-toggle{transition:none}.theme-toggle:hover{transform:none}}
+html[data-theme=dark] .flow-wrap .svelte-flow{--xy-background-color:#141b10;--xy-attribution-background-color:#1b2118;--xy-controls-button-background-color:#26331d;--xy-controls-button-background-color-hover:#3b4b2c;--xy-controls-button-color:#e9efd9;--xy-controls-button-border-color:#46513a}
+html[data-theme=dark] .flow-wrap .svelte-flow__minimap{background:#1b2118}
+html[data-theme=dark] .flow-wrap .svelte-flow__edge-text{fill:#d9e7b8}
+html[data-theme=dark] .flow-wrap .svelte-flow__edge-textbg{fill:#1b2118}
+html[data-theme=dark] :is(.canvas-topbar strong,.node-type){color:#b8c7a1}
+html[data-theme=dark] .node-cast{background:#2c371f;color:#ccdab5}
+html[data-theme=dark] .main-scroll .canvas-properties input{background:#13180f;color:#edf2e5}
+html[data-theme=dark] .story-node .node-image-empty{background:#29351e;color:#c6d6b1}
